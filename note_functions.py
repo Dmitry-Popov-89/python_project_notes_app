@@ -2,7 +2,7 @@ import file_functions
 import note
 import ui
 
-number = 6 
+number = 1 
 
 
 def add():
